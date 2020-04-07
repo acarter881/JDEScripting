@@ -1,0 +1,2 @@
+# JDEScripting
+VBScript for JDE
